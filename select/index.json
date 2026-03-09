@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "正義",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-03-09T02:05:25.561292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_正義_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "正義 (Warrior Mix)",
+      "artist": "Vivian Lai",
+      "has_synced": false,
+      "path": "select/02_正義_(Warrior_Mix)_Vivian_Lai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_正義_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "Zutto Mayonaka De Iinoni.",
+      "has_synced": true,
+      "path": "select/04_正義_Zutto_Mayonaka_De_Iinoni..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_正義_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "正義 (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_正義_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "正義 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_正義_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "正義 - Seigi",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_正義_-_Seigi_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/09_正義_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_正義_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『正義』MV",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_ずっと真夜中でいいのに。『正義』MV_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "正義",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_正義_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_正義_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_正義_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_正義_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_正義_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "正義",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_正義_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
